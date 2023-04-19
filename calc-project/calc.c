@@ -1,5 +1,6 @@
 #include <stdio.h>
 int sum (int x, int y);
+int sub(int ,int);
 
 void main()
 {
