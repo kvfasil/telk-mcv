@@ -4,6 +4,9 @@ int sum (int x, int y);
 void main()
 {
 	printf"calculator");
+	int val = sum(10, 20);
+
+	printf("%d \n",val)
 
 }
 
